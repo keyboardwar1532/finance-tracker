@@ -11,4 +11,7 @@ class StocksController < ApplicationController
 		  format.js { render partial: 'users/result' }
 		end
 	end
+
+	
+
 end
